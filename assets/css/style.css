@@ -208,6 +208,10 @@ article {
 
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
 
+.fotoPerfil {
+  border-radius: 15px;
+}
+
 article { display: none; }
 
 article.active {
